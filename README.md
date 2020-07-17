@@ -1,4 +1,4 @@
-# Hi, I'm Stefano 👋
+# Hi, I'm Stefano 👋🎓‍
 
 I'm a MSc Computer Engineering student who is passionate about new technologies and their Business applications. Spending my free time in the development of ML projects, Android apps and Back-end.
 
