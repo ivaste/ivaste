@@ -6,9 +6,6 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  - My Portfolio on <a href="https://www.stefanoivancich.com">stefanoivancich.com</a>
  - Sharing updates on <a href="https://www.linkedin.com/in/stefano-ivancich/">LinkedIn</a> 💼
  
- 
- ![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
- 
  ## Recent Projects
  🧠 **Alzheimer Diagnosis with ML:**
   - Given an MRI (magnetic resonance image) of the brain, returns the probability of contracting Alzheimer's disease in the coming years.
@@ -29,6 +26,15 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
   - State of the art database design.
   - Implemented with PostgreSQL, HTML5, PHP and Bootstrap4.
   
+
+
+
+
+
+ 
+ ![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
+ 
+
 
 <!--
 **ivaste/ivaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
