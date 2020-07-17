@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Stefano 👋
+
+I'm a MSc Computer Engineering student who is passionate about new technologies. Spending my free time in the development of ML projects, Android apps and Back-end.
+
+## Find me around the web 🌎:
+ - My Portfolio on <a href="https://www.stefanoivancich.com">stefanoivancich.com</a>
+ - Sharing updates on <a href="https://www.linkedin.com/in/stefano-ivancich/">LinkedIn</a> 💼
 
 <!--
 **ivaste/ivaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
