@@ -7,7 +7,7 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  - Sharing updates on <a href="https://www.linkedin.com/in/stefano-ivancich/">LinkedIn</a> 💼
  
  ## Recent Projects
- 🧠 **Alzheimer Diagnosis with ML:** ([🔗Link](https://github.com/ivaste/AlzheimerPrediction))
+ 🧠 **[Alzheimer Diagnosis with ML:](https://github.com/ivaste/AlzheimerPrediction)**
   - Given an MRI (magnetic resonance image) of the brain, returns the probability of contracting Alzheimer's disease in the coming years.
   - Leading to 75% accuracy.
   - Using state of the art CNN in MATLAB.
