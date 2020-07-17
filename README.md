@@ -10,21 +10,21 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  ![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
  
  ## Recent Projects
- 🧠 **Alzheimer Diagnosis with ML**
+ 🧠 **Alzheimer Diagnosis with ML:**
   - Given an MRI (magnetic resonance image) of the brain, returns the probability of contracting Alzheimer's disease in the coming years.
   - Leading to 75% accuracy.
   - Using state of the art CNN in MATLAB.
  
- 🌐 **Gateway SMS**
+ 🌐 **Gateway SMS:**
   - API service that send SMS.
   - Capable of saving up to 95% of costs comparing to all other similar services.
   - Implemented with NodeJS and Android.
  
- 💊 **TakeThePill**
+ 💊 **TakeThePill:**
   - Android app for drugs assumption reminder.
   - Implemented with Java & Kotlin.
  
- 🏠 **Home Renting Database**
+ 🏠 **Home Renting Database:**
   - Airbnb Clone.
   - State of the art database design.
   - Implemented with PostgreSQL, HTML5, PHP and Bootstrap4.
