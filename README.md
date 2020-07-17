@@ -7,27 +7,25 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  - Sharing updates on <a href="https://www.linkedin.com/in/stefano-ivancich/">LinkedIn</a> 💼
  
  ## Recent Projects
- 🧠 **Alzheimer Diagnosis with ML:**
+ 🧠 **Alzheimer Diagnosis with ML:** ([🔗Link](https://github.com/ivaste/AlzheimerPrediction))
   - Given an MRI (magnetic resonance image) of the brain, returns the probability of contracting Alzheimer's disease in the coming years.
   - Leading to 75% accuracy.
   - Using state of the art CNN in MATLAB.
  
- 🌐 **Gateway SMS:**
+ 🌐 **Gateway SMS:** ([🔗Link](https://github.com/ivaste/GatewaySMS))
   - API service that send SMS.
   - Capable of saving up to 95% of costs comparing to all other similar services.
   - Implemented with NodeJS and Android.
  
- 💊 **TakeThePill:**
+ 💊 **TakeThePill:** ([🔗Link](https://github.com/ivaste/Take-the-Pill))
   - Android app for drugs assumption reminder.
   - Implemented with Java & Kotlin.
  
- 🏠 **Home Renting Database:**
-  - Airbnb Clone.
+ 🏠 **Home Renting Database:** ([🔗Link](https://stefanoivancich.com/?p=1160))
+  - Airbnb Clone
   - State of the art database design.
   - Implemented with PostgreSQL, HTML5, PHP and Bootstrap4.
   
-
-
 
 
 
