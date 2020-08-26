@@ -1,4 +1,4 @@
-# Hi, I'm Stefano 👋🎓‍
+## Hi, I'm Stefano 👋🎓‍
 
 I'm a MSc Computer Engineering student who is passionate about new technologies and their Business applications. Spending my free time in the development of ML projects, Android apps and Back-end.
 
@@ -32,7 +32,7 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  
  ![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
  
-
+![Profile visits](https://badges.pufler.dev/visits/ivaste/ivaste?label=Profile%20visits&style=flat-square)
 
 <!--
 **ivaste/ivaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
