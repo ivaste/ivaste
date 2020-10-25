@@ -5,6 +5,7 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
 ## Find me around the web 🌎:
  - My Portfolio on <a href="https://www.stefanoivancich.com">stefanoivancich.com</a>
  - Sharing updates on <a href="https://www.linkedin.com/in/stefano-ivancich/">LinkedIn</a> 💼
+ - Competitive programming on <a href="https://leetcode.com/steiva/">Leetcode </a>
  
  ## Recent Projects
  🎤 **End-to-End Framework for Key-Word Spotting:** ([🔗Link](https://github.com/ivaste/KeyWordSpotting) | [🕹️Demo](https://colab.research.google.com/drive/15v66rkuL2hF0Ecg7gcD7RMVutVQCc0Nr) | [📄Paper](https://github.com/ivaste/KeyWordSpotting/blob/master/Paper/Key%20Word%20Spotting.pdf))
