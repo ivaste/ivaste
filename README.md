@@ -4,8 +4,10 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
 
 ## Find me around the web 🌎:
  - My Portfolio on <a href="https://www.stefanoivancich.com">stefanoivancich.com</a>
- - Sharing updates on <a href="https://www.linkedin.com/in/stefano-ivancich/">LinkedIn</a> 💼
- - Competitive programming on <a href="https://leetcode.com/steiva/">Leetcode </a>
+ - Sharing updates on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-ivancich/)
+ - Competitive programming on [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/steiva/) [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ivancich_stefano) [![CodeSignal](https://img.shields.io/badge/-CodeSignal-blue)](https://app.codesignal.com/profile/stefano_i2)
+ 
+ 
  
  ## Recent Projects
  🎤 **End-to-End Framework for Key-Word Spotting:** ([🔗Link](https://github.com/ivaste/KeyWordSpotting) | [🕹️Demo](https://colab.research.google.com/drive/15v66rkuL2hF0Ecg7gcD7RMVutVQCc0Nr) | [📄Paper](https://github.com/ivaste/KeyWordSpotting/blob/master/Paper/Key%20Word%20Spotting.pdf))
