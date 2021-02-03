@@ -38,11 +38,14 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
 
 
  
- ![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
+![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
  
-![Profile visits](https://badges.pufler.dev/visits/ivaste/ivaste?label=Profile%20visits&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ivaste)
 
 <!--
+![Profile visits](https://badges.pufler.dev/visits/ivaste/ivaste?label=Profile%20visits&style=flat-square)
+
+
 https://zzetao.github.io/awesome-github-profile/
 
 **ivaste/ivaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
