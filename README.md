@@ -35,15 +35,10 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
   - Implemented with PostgreSQL, HTML5, PHP and Bootstrap4.
   
 
-## Coming soon Projects 🤭
- 📰 **Fake news Detection**  
- 
- 💡 **Internet of Things shop and dashboard**  
-   - Spring Boot
-   - React
-   - PostgreSQL
-  
- 🔄 **Optimization on the Traveling Salesman Problem**
+## Ongoing Projects
+ 📰 **Fake news Detection on social media posts**  
+ 💡 **Internet of Things shop and dashboard**: Spring Boot, React, PostgreSQL, Bootstrap4, Docker, Java, Javascript 
+ 📐 **Mathematical Optimization of the Traveling Salesman Problem**: CPLEX, ansi C, python  
 
  
 ![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
