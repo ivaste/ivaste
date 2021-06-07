@@ -39,6 +39,7 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  📰 **Fake news Detection on social media posts**: python, Keras and Tensorflow   
  💡 **Internet of Things shop and dashboard**: Spring Boot, React, PostgreSQL, Material-UI, Docker, Java, Javascript  
  📐 **Mathematical Optimization of the Traveling Salesman Problem**: CPLEX, ansi C, python  
+ 📜 **Plagiarism Detection**: HTML5, Bootstrap 5, JavaScript  
 
  
 ![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
