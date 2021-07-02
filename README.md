@@ -40,6 +40,7 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  💡 **Internet of Things shop and dashboard**: Spring Boot, React, PostgreSQL, Material-UI, Docker, Java, Javascript  
  📐 **Mathematical Optimization of the Traveling Salesman Problem**: CPLEX, ansi C, python  
  📜 **Plagiarism Detection**: HTML5, Bootstrap 5, JavaScript  
+ ✏️ **Solver for the NxN Game**: Python
 
  
 ![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
