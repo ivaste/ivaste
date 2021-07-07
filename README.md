@@ -18,7 +18,12 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
   - Detect a set of predefined keywords in an audio stream.
   - Leading to 96.8% of accuracy.
   - Using Deeplearning, python, Keras and Tensorflow.
-  
+
+ 📰 **Fake news Detection on social media posts**: ([🔗Link](https://github.com/ivaste/FakenewsDetection) | [📄Paper](https://github.com/ivaste/FakenewsDetection/raw/main/Paper/AI%20for%20Fake%20News%20Detection%20in%20Social%20Networks.pdf))
+  - ML algorithms to detect if a social media post contains fake news.
+  - Leading to 94.7% of accuracy.
+  - Using Deeplearning, python, Keras and Tensorflow
+
  🧠 **Alzheimer Diagnosis with ML:** ([🔗Link](https://github.com/ivaste/AlzheimerPrediction))
   - Given an MRI (magnetic resonance image) of the brain, returns the probability of contracting Alzheimer's disease in the coming years.
   - Leading to 75% accuracy.
@@ -39,8 +44,7 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
   - Implemented with PostgreSQL, HTML5, PHP and Bootstrap4.
   
 
-## Ongoing Projects
- 📰 **Fake news Detection on social media posts**: python, Keras and Tensorflow   
+## Ongoing Projects   
  📐 **Mathematical Optimization of the Traveling Salesman Problem**: CPLEX, ansi C, python  
  📜 **Plagiarism Detection**: HTML5, Bootstrap 5, JavaScript  
  ✏️ **Solver for the NxN Game**: Python
