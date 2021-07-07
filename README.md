@@ -10,6 +10,10 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  
  
 ## Recent Projects
+ 💡 **Internet of Things shop and dashboard**: ([🔗Link](https://github.com/lucamoroz/iot-dashboard) | [🕹️Demo]())
+  - Online platform that allows to buy and monitor IoT sensors
+  - Developed with Spring Boot, React, PostgreSQL, Material-UI, Docker, Java, Javascript 
+
  🎤 **End-to-End Framework for Key-Word Spotting:** ([🔗Link](https://github.com/ivaste/KeyWordSpotting) | [🕹️Demo](https://colab.research.google.com/drive/15v66rkuL2hF0Ecg7gcD7RMVutVQCc0Nr) | [📄Paper](https://github.com/ivaste/KeyWordSpotting/blob/master/Paper/Key%20Word%20Spotting.pdf))
   - Detect a set of predefined keywords in an audio stream.
   - Leading to 96.8% of accuracy.
@@ -37,7 +41,6 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
 
 ## Ongoing Projects
  📰 **Fake news Detection on social media posts**: python, Keras and Tensorflow   
- 💡 **Internet of Things shop and dashboard**: Spring Boot, React, PostgreSQL, Material-UI, Docker, Java, Javascript  
  📐 **Mathematical Optimization of the Traveling Salesman Problem**: CPLEX, ansi C, python  
  📜 **Plagiarism Detection**: HTML5, Bootstrap 5, JavaScript  
  ✏️ **Solver for the NxN Game**: Python
