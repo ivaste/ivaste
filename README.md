@@ -23,7 +23,12 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
   - ML algorithms to detect if a social media post contains fake news.
   - Leading to 94.7% of accuracy.
   - Using Deeplearning, python, Keras and Tensorflow
-
+ 
+ 📜 **Plagiarism Detector**: ([🔗Code](https://github.com/ivaste/pattern_matching) | [🕹️Demo](https://document-matching.netlify.app/))
+  - Platform that finds similarities between documents in order to detect plagiarism
+  - #1 free plagiarism detector (as 2021)
+  - Developed with HTML5, Bootstrap 5, JavaScript, Python
+ 
  🧠 **Alzheimer Diagnosis with ML:** ([🔗Link](https://github.com/ivaste/AlzheimerPrediction))
   - Given an MRI (magnetic resonance image) of the brain, returns the probability of contracting Alzheimer's disease in the coming years.
   - Leading to 75% accuracy.
@@ -45,8 +50,7 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
   
 
 ## Ongoing Projects   
- 📐 **Mathematical Optimization of the Traveling Salesman Problem**: CPLEX, ansi C, python  
- 📜 **Plagiarism Detection**: HTML5, Bootstrap 5, JavaScript  
+ 📐 **Mathematical Optimization of the Traveling Salesman Problem**: CPLEX, ansi C, python    
  ✏️ **Solver for the NxN Game**: Python
 
  
