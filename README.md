@@ -9,6 +9,10 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  
  
 ## Recent Projects
+ 📐 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Link](https://github.com/deno750/TSP_Optimization) | [🕹️Demo]())
+  - Online platform that allows to buy and monitor IoT sensors
+  - Developed with Python, Flask, HTML5, Bootstrap 5, JavaScript,  CPLEX, ansi C  
+
  💡 **Internet of Things shop and dashboard**: ([🔗Link](https://github.com/lucamoroz/iot-dashboard) | [🕹️Demo]())
   - Online platform that allows to buy and monitor IoT sensors
   - Developed with Spring Boot, React, PostgreSQL, Material-UI, Docker, Java, Javascript 
@@ -48,8 +52,7 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
   - Implemented with PostgreSQL, HTML5, PHP and Bootstrap4.
   
 
-## Ongoing Projects   
- 📐 **Mathematical Optimization of the Traveling Salesman Problem**: CPLEX, ansi C, python    
+## Ongoing Projects     
  ✏️ **Solver for the NxN Game**: Python
 
  
