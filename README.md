@@ -9,15 +9,15 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  
  
 ## Recent Projects
- 📐 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Link](https://github.com/deno750/TSP_Optimization) | [🕹️Demo](http://159.89.0.117/) | [📄Paper](https://github.com/deno750/TSP_Optimization/raw/master/TSP_Optimization%20-%20Deronjic%20-%20Ivancich.pdf))
+ 📐 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/deno750/TSP_Optimization) | [🕹️Demo](http://159.89.0.117/) | [📄Paper](https://github.com/deno750/TSP_Optimization/raw/master/TSP_Optimization%20-%20Deronjic%20-%20Ivancich.pdf))
   - Online platform that allows to buy and monitor IoT sensors
   - Developed with Python, Flask, HTML5, Bootstrap 5, JavaScript,  CPLEX, ansi C  
 
- 💡 **Internet of Things shop and dashboard**: ([🔗Link](https://github.com/lucamoroz/iot-dashboard) | [🕹️Demo]())
+ 💡 **Internet of Things shop and dashboard**: ([🔗Code](https://github.com/lucamoroz/iot-dashboard) | [🕹️Demo]())
   - Online platform that allows to buy and monitor IoT sensors
   - Developed with Spring Boot, React, PostgreSQL, Material-UI, Docker, Java, Javascript 
 
- 🎤 **End-to-End Framework for Key-Word Spotting:** ([🔗Link](https://github.com/ivaste/KeyWordSpotting) | [🕹️Demo](https://colab.research.google.com/drive/15v66rkuL2hF0Ecg7gcD7RMVutVQCc0Nr) | [📄Paper](https://github.com/ivaste/KeyWordSpotting/blob/master/Paper/Key%20Word%20Spotting.pdf))
+ 🎤 **End-to-End Framework for Key-Word Spotting:** ([🔗Code](https://github.com/ivaste/KeyWordSpotting) | [🕹️Demo](https://colab.research.google.com/drive/15v66rkuL2hF0Ecg7gcD7RMVutVQCc0Nr) | [📄Paper](https://github.com/ivaste/KeyWordSpotting/blob/master/Paper/Key%20Word%20Spotting.pdf))
   - Detect a set of predefined keywords in an audio stream.
   - Leading to 96.8% of accuracy.
   - Using Deeplearning, python, Keras and Tensorflow.
