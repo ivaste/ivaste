@@ -10,7 +10,7 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
  
 ## Recent Projects
  📐 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/deno750/TSP_Optimization) | [🕹️Demo](http://159.89.0.117/) | [📄Paper](https://github.com/deno750/TSP_Optimization/raw/master/TSP_Optimization%20-%20Deronjic%20-%20Ivancich.pdf))
-  - Online platform that allows to buy and monitor IoT sensors
+  - Online platform that allows to optimize a TSP problem
   - Developed with Python, Flask, HTML5, Bootstrap 5, JavaScript,  CPLEX, ansi C  
 
  💡 **Internet of Things shop and dashboard**: ([🔗Code](https://github.com/lucamoroz/iot-dashboard) | [🕹️Demo]())
