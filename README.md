@@ -52,8 +52,8 @@ I'm a MSc Computer Engineering student who is passionate about new technologies 
   - Implemented with PostgreSQL, HTML5, PHP and Bootstrap4.
   
 
-## Ongoing Projects     
- ✏️ **Solver for the NxN Game**: Python
+<!--## Ongoing Projects     -->
+
 
  
 ![ivaste's github stats](https://github-readme-stats.vercel.app/api?username=ivaste&show_icons=true]&hide=["contribs","prs"])
