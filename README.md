@@ -1,6 +1,6 @@
 ## Hi, I'm Stefano 👋🎓‍
 
-I'm a MSc Computer Engineering student who is passionate about new technologies and their Business applications. Spending my free time in the development of ML projects, Android apps and Back-end.
+I'm a MSc Computer Engineering student who is passionate about new technologies and their Business applications. Spending my free time in the development of Scalable architectures, ML projects, Android apps and Back-end.
 
  - My Portfolio on <a href="https://www.stefanoivancich.com">stefanoivancich.com</a>
  - Sharing updates on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-ivancich/)
