@@ -1,6 +1,6 @@
 ## Hi, I'm Stefano 👋🎓‍
 
-I'm a **SWE at Uber Amsterdam**, Ex-Amazon and MSc Computer Engineering student who is passionate about new technologies and their Business applications. Spending my free time in the development of Scalable architectures, ML projects, Android apps and Back-end.
+ I'm currently a Software Engineer at **Uber** in Amsterdam working on payments backend infrastructure handling 50M+ payments/day. Previously I worked at **Amazon Web Services** on ML pipelines.
 
  - My Portfolio on <a href="https://www.stefanoivancich.com">stefanoivancich.com</a>
  - Sharing updates on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-ivancich/)
